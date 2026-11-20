@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <LangVersion>latest</LangVersion>
+    <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+    <PackageId>PGameSDK.Windows</PackageId>
+    <AssemblyName>PGameSDK.Managed</AssemblyName>
+    <Version>1.3.11</Version>
+    <Authors>PGame</Authors>
+    <Description>PGame Web OAuth SDK wrapper for Windows.</Description>
+  </PropertyGroup>
+</Project>
